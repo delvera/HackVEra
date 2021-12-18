@@ -11,8 +11,8 @@ This scanner is designed to be lightweight, fast, require no dependencies and su
 
 ## Usage
 ````
-chmod +x ./log4jscan.sh
-sudo ./log4jscan.sh
+chmod +x ./delvera.sh
+sudo ./delvera.sh
 ````
 
 ## Example
