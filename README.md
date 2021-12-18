@@ -1,4 +1,4 @@
-# log4jscan for Linux
+# SOY DEL VERA 
 
 Scan Linux hosts for of log4j (log4j-core) for the purpose of identifying potentially vulnerable versions.
 This scanner is designed to be lightweight, fast, require no dependencies and support containerized/K8s environments.
