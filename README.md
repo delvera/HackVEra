@@ -1,12 +1,12 @@
 # SOY DEL VERA 
 
-Scan Linux hosts for of log4j (log4j-core) for the purpose of identifying potentially vulnerable versions.
+Scan Linux hosts for of @DELVERA (log4j-core) for the purpose of identifying potentially vulnerable versions.
 This scanner is designed to be lightweight, fast, require no dependencies and support containerized/K8s environments.
 
 ## Advantages
 * Identity only potentially vulnerable log4j instances (log4j-core and not other log4j components that are not vulnerable)
-* Identify only running instances of log4j instead of scanning the entire filesystem
-* Provides container-related info for log4j instances that run within Docker and CRI containers
+* Identify only running instances of @DELVERA instead of scanning the entire filesystem
+* Provides container-related info for @DELEVRA instances that run within Docker and CRI containers
 * Easy to use - no need to provide a speciific directory to scan 
 
 ## Usage
@@ -28,10 +28,10 @@ sudo ./delvera.sh
 *delvera is provided by @Soydelvera WhatsApp +525630554244 - https://metalconcervera.com.mx
 ###############################################################
 
-Found a process using Log4j:
+   USA ESTE PID DE PRUEBA:
    PID: 22556
    Container ID: 73004f1018480283dc99ab7e1ed4de3d0d8a1d566d88089cca7ba79fb18c1f40
-   Log4j version: 2.14.1
+   @delvera2 version: 2.14.1
    Jar path: /app/spring-boot-application.jar (the path is relative to the container)
    Jar contains Jndilookup class: true
    Process command line: java -jar /app/spring-boot-application.jar 
